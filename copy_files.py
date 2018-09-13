@@ -36,6 +36,8 @@ recursive_overwrite(src, dest)
 
 for path, dirs, files in os.walk(src):
     for filename in files:
+        if 'current.cfg' in filename:
+            continue
         fullpath = os.path.join(path, filename)
         semicolonin = csv.reader(open(fullpath, 'r', newline=''), delimiter=';')
         dest_fullpath = dest + "/" + path[len(src)+1:] + "/" + filename
