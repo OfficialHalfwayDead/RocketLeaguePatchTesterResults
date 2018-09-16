@@ -18,7 +18,7 @@ car.Wheel0.PresetRestPosition.X,50.299999
 car.Wheel0.PresetRestPosition.Y,-31.100000
 car.Wheel0.PresetRestPosition.Z,-6.200000
 car.Wheel0.WheelRadius,12.000000
-car.Wheel0.GetSuspensionDistance,-1.987156
+car.Wheel0.GetSuspensionDistance,-1.987150
 car.Wheel1.LocalRestPosition.X,50.299999
 car.Wheel1.LocalRestPosition.Y,31.100000
 car.Wheel1.LocalRestPosition.Z,-6.200000
@@ -26,7 +26,7 @@ car.Wheel1.PresetRestPosition.X,50.299999
 car.Wheel1.PresetRestPosition.Y,31.100000
 car.Wheel1.PresetRestPosition.Z,-6.200000
 car.Wheel1.WheelRadius,12.000000
-car.Wheel1.GetSuspensionDistance,-1.986817
+car.Wheel1.GetSuspensionDistance,-1.986811
 car.Wheel2.LocalRestPosition.X,-34.750000
 car.Wheel2.LocalRestPosition.Y,-33.000000
 car.Wheel2.LocalRestPosition.Z,-6.100000
@@ -42,7 +42,7 @@ car.Wheel3.PresetRestPosition.X,-34.750000
 car.Wheel3.PresetRestPosition.Y,33.000000
 car.Wheel3.PresetRestPosition.Z,-6.100000
 car.Wheel3.WheelRadius,13.500000
-car.Wheel3.GetSuspensionDistance,-1.956765
+car.Wheel3.GetSuspensionDistance,-1.956768
 car.LocalCollisionExtent.X,63.963390
 car.LocalCollisionExtent.Y,41.639977
 car.LocalCollisionExtent.Z,15.650000
