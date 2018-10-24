@@ -1,0 +1,2 @@
+frame,input.bActivateBoost,input.bHoldingBoost,input.Throttle,input.Steer,car.Location.X,car.Location.Y,car.Location.Z,car.LinearVelocity.X,car.LinearVelocity.Y,car.LinearVelocity.Z,car.Quaternion.X,car.Quaternion.Y,car.Quaternion.Z,car.Quaternion.W,car.AngularVelocity.X,car.AngularVelocity.Y,car.AngularVelocity.Z
+0,False,False,0.000000,0.000000,3500.339844,0.000000,18.330000,0.000000,0.000000,8.401000,0.000003,0.008548,0.000003,0.999963,0.000000,-0.000310,0.000000
