@@ -52,6 +52,6 @@ car.LocalCollisionOffset.Z,15.750000
 car.CarMesh.Translation.X,0.000000
 car.CarMesh.Translation.Y,0.000000
 car.CarMesh.Translation.Z,6.214881
-car.CollisionComponent.Translation.X,0.000000
-car.CollisionComponent.Translation.Y,0.000000
-car.CollisionComponent.Translation.Z,6.214881
+car.CarMesh.GetPosition.X,0.424863
+car.CarMesh.GetPosition.Y,0.000000
+car.CarMesh.GetPosition.Z,23.263994
