@@ -12,8 +12,8 @@ if len(sys.argv) != 2:
 patchnumber = str(sys.argv[1])
 
 src = "C:/Program Files (x86)/Steam/steamapps/common/rocketleague/Binaries/Win32/bakkesmod/testmod"
-dest = "H:/timoh/Documents/RLpatchTest/RocketLeaguePatchTesterResults/current_patch"
-dest_numbered = os.path.join("H:/timoh/Documents/RLpatchTest/RocketLeaguePatchTesterResults", patchnumber)
+dest = "E:/timoh/Documents/RLpatchTest/RocketLeaguePatchTesterResults/current_patch"
+dest_numbered = os.path.join("E:/timoh/Documents/RLpatchTest/RocketLeaguePatchTesterResults", patchnumber)
 
 
 def recursive_overwrite(src, dest, ignore=None):
