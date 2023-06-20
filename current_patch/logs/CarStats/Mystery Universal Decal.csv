@@ -1,9 +1,10 @@
+ID: 1412
 car.Location.X,0.190000
 car.Location.Y,0.000000
-car.Location.Z,17.000000
+car.Location.Z,17.010000
 car.LinearVelocity.X,-0.011000
 car.LinearVelocity.Y,0.000000
-car.LinearVelocity.Z,0.301000
+car.LinearVelocity.Z,0.231000
 car.Quaternion.X,0.000003
 car.Quaternion.Y,0.005085
 car.Quaternion.Z,0.000003
@@ -18,7 +19,7 @@ car.Wheel0.PresetRestPosition.X,0.000000
 car.Wheel0.PresetRestPosition.Y,0.000000
 car.Wheel0.PresetRestPosition.Z,0.000000
 car.Wheel0.WheelRadius,12.500000
-car.Wheel0.GetSuspensionDistance,-1.985955
+car.Wheel0.GetSuspensionDistance,-1.980349
 car.Wheel1.LocalRestPosition.X,51.239998
 car.Wheel1.LocalRestPosition.Y,25.920000
 car.Wheel1.LocalRestPosition.Z,-5.970000
@@ -26,7 +27,7 @@ car.Wheel1.PresetRestPosition.X,0.000000
 car.Wheel1.PresetRestPosition.Y,0.000000
 car.Wheel1.PresetRestPosition.Z,0.000000
 car.Wheel1.WheelRadius,12.500000
-car.Wheel1.GetSuspensionDistance,-1.985672
+car.Wheel1.GetSuspensionDistance,-1.980069
 car.Wheel2.LocalRestPosition.X,-34.290001
 car.Wheel2.LocalRestPosition.Y,-29.529999
 car.Wheel2.LocalRestPosition.Z,-4.320000
@@ -34,7 +35,7 @@ car.Wheel2.PresetRestPosition.X,0.000000
 car.Wheel2.PresetRestPosition.Y,0.000000
 car.Wheel2.PresetRestPosition.Z,0.000000
 car.Wheel2.WheelRadius,15.000000
-car.Wheel2.GetSuspensionDistance,-1.966168
+car.Wheel2.GetSuspensionDistance,-1.960562
 car.Wheel3.LocalRestPosition.X,-34.290001
 car.Wheel3.LocalRestPosition.Y,29.529999
 car.Wheel3.LocalRestPosition.Z,-4.320000
@@ -42,7 +43,7 @@ car.Wheel3.PresetRestPosition.X,0.000000
 car.Wheel3.PresetRestPosition.Y,0.000000
 car.Wheel3.PresetRestPosition.Z,0.000000
 car.Wheel3.WheelRadius,15.000000
-car.Wheel3.GetSuspensionDistance,-1.965846
+car.Wheel3.GetSuspensionDistance,-1.960243
 car.LocalCollisionExtent.X,59.003689
 car.LocalCollisionExtent.Y,42.099705
 car.LocalCollisionExtent.Z,18.079536
@@ -54,4 +55,4 @@ car.CarMesh.Translation.Y,0.000000
 car.CarMesh.Translation.Z,0.000000
 car.CarMesh.GetPosition.X,0.190000
 car.CarMesh.GetPosition.Y,0.000000
-car.CarMesh.GetPosition.Z,17.000000
+car.CarMesh.GetPosition.Z,17.010000
