@@ -38,6 +38,8 @@ for path, dirs, files in os.walk(src):
     for filename in files:
         if 'current' in filename:
             continue
+        if 'Emperor II' == filename: # for some reason this empty file without .csv keeps appearing
+            continue
         fullpath = os.path.join(path, filename)
         semicolonin = csv.reader(open(fullpath, 'r', newline=''), delimiter=';')
         dest_fullpath = dest + "/" + path[len(src)+1:] + "/" + filename
