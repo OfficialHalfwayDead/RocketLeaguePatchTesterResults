@@ -1,5 +1,5 @@
-ID,6247
-Name,McLaren 765LT
+ID,7211
+Name,Mamba
 car.Location.X,0.320000
 car.Location.Y,0.000000
 car.Location.Z,17.049999
@@ -53,7 +53,7 @@ car.LocalCollisionOffset.Y,0.000000
 car.LocalCollisionOffset.Z,15.750000
 car.CarMesh.Translation.X,0.000000
 car.CarMesh.Translation.Y,0.000000
-car.CarMesh.Translation.Z,1.017153
-car.CarMesh.GetPosition.X,0.337162
+car.CarMesh.Translation.Z,3.302997
+car.CarMesh.GetPosition.X,0.375731
 car.CarMesh.GetPosition.Y,0.000000
-car.CarMesh.GetPosition.Z,18.067007
+car.CarMesh.GetPosition.Z,20.352526

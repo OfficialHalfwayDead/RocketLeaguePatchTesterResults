@@ -1,5 +1,5 @@
-ID,6247
-Name,McLaren 765LT
+ID,9388
+Name,Lightning McQueen
 car.Location.X,0.320000
 car.Location.Y,0.000000
 car.Location.Z,17.049999
@@ -48,12 +48,12 @@ car.Wheel3.GetSuspensionDistance,-1.963006
 car.LocalCollisionExtent.X,63.963390
 car.LocalCollisionExtent.Y,41.639977
 car.LocalCollisionExtent.Z,15.650000
-car.LocalCollisionOffset.X,9.000000
+car.LocalCollisionOffset.X,2.250000
 car.LocalCollisionOffset.Y,0.000000
 car.LocalCollisionOffset.Z,15.750000
 car.CarMesh.Translation.X,0.000000
 car.CarMesh.Translation.Y,0.000000
-car.CarMesh.Translation.Z,1.017153
-car.CarMesh.GetPosition.X,0.337162
+car.CarMesh.Translation.Z,0.618158
+car.CarMesh.GetPosition.X,0.330430
 car.CarMesh.GetPosition.Y,0.000000
-car.CarMesh.GetPosition.Z,18.067007
+car.CarMesh.GetPosition.Z,17.668070
